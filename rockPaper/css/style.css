@@ -1,0 +1,21 @@
+body {
+    background-color: #393838;
+    align-items: center;
+    justify-content: center;
+    margin-left: 200px;
+}
+
+p {
+    font-size: 26px;
+    color: #fff;
+    font-family: 'Monsttrerat', sans-serif;
+    margin-bottom: 70px;
+    margin-left: 100px;
+}
+
+button {
+    height: 100px;
+    width: 100px;
+    margin-left: 30px;
+    border-radius: 50%;
+}
